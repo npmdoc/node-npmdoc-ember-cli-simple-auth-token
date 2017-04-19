@@ -1,9 +1,14 @@
-# api documentation for  [ember-cli-simple-auth-token (v0.7.3)](https://github.com/jpadilla/ember-cli-simple-auth-token#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-cli-simple-auth-token.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-cli-simple-auth-token) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-cli-simple-auth-token.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-cli-simple-auth-token)
+# npmdoc-ember-cli-simple-auth-token
+
+#### api documentation for  [ember-cli-simple-auth-token (v0.7.3)](https://github.com/jpadilla/ember-cli-simple-auth-token#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-ember-cli-simple-auth-token.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-ember-cli-simple-auth-token) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-ember-cli-simple-auth-token.svg)](https://travis-ci.org/npmdoc/node-npmdoc-ember-cli-simple-auth-token)
+
 #### An authenticator and authorizer for Ember Simple Auth that is compatible with token-based authentication like JWT in Ember CLI applications.
 
-[![NPM](https://nodei.co/npm/ember-cli-simple-auth-token.png?downloads=true)](https://www.npmjs.com/package/ember-cli-simple-auth-token)
+[![NPM](https://nodei.co/npm/ember-cli-simple-auth-token.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/ember-cli-simple-auth-token)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-ember-cli-simple-auth-token/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-ember-cli-simple-auth-token_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ember-cli-simple-auth-token/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-ember-cli-simple-auth-token/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-ember-cli-simple-auth-token/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-ember-cli-simple-auth-token/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-ember-cli-simple-auth-token/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-ember-cli-simple-auth-token/build/screenCapture.npmPackageListing.svg)
 
@@ -18,7 +23,6 @@
 {
     "author": {
         "name": "José Padilla",
-        "email": "hello@jpadilla.com",
         "url": "http://jpadilla.com"
     },
     "bugs": {
@@ -26,8 +30,7 @@
     },
     "contributors": [
         {
-            "name": "Giovanni Collazo",
-            "email": "hello@gcollazo.com"
+            "name": "Giovanni Collazo"
         }
     ],
     "dependencies": {
@@ -89,17 +92,14 @@
     "license": "MIT",
     "maintainers": [
         {
-            "name": "jpadilla",
-            "email": "hello@jpadilla.com"
+            "name": "jpadilla"
         },
         {
-            "name": "gcollazo",
-            "email": "hello@gcollazo.com"
+            "name": "gcollazo"
         }
     ],
     "name": "ember-cli-simple-auth-token",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/jpadilla/ember-cli-simple-auth-token.git"
@@ -112,17 +112,6 @@
     "version": "0.7.3"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module ember-cli-simple-auth-token](#apidoc.module.ember-cli-simple-auth-token)
-1.  string <span class="apidocSignatureSpan">ember-cli-simple-auth-token.</span>name
-
-
-
-# <a name="apidoc.module.ember-cli-simple-auth-token"></a>[module ember-cli-simple-auth-token](#apidoc.module.ember-cli-simple-auth-token)
 
 
 
